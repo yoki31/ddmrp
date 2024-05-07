@@ -4,7 +4,7 @@
 {
     "name": "DDMRP History",
     "summary": "Allow to store historical data of DDMRP buffers.",
-    "version": "14.0.1.2.1",
+    "version": "14.0.1.3.0",
     "development_status": "Beta",
     "author": "ForgeFlow, Odoo Community Association (OCA)",
     "maintainers": ["JordiBForgeFlow", "LoisRForgeFlow"],
